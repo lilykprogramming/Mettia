@@ -1,0 +1,3 @@
+numerek 0 odpowiada klasie cats
+numerek 1 odpowiada klasie dogs
+numerek 2 odpowiada klasie people
