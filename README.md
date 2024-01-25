@@ -6,9 +6,9 @@
 
   <h4>Training set:</h4>
   <p>Train:</p>
-  <p> images</p>
+  <p> 2100 images</p>
   <p>Test:</p>
-  <p> images</p>
+  <p> 600 images</p>
 
   <h4>Programming language</h4>
   <li><p>Python3.9</p></li>
