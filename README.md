@@ -2,7 +2,7 @@
 <ul>
   <h3>Image Recognition Model</h3>
   <h4>Description</h4>
-  <li><p></p></li>
+  <li><p>AI model distinguishing between a cat, a dog, and a human.</p></li>
 
   <h4>Training set:</h4>
   <p>Train:</p>
