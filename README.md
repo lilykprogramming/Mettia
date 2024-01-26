@@ -3,7 +3,8 @@
   <h3>Image Recognition Model</h3>
   <h4>Description</h4>
   <li><p>AI model distinguishing between a cat, a dog, and a human.</p></li>
-
+  <h4>Epoch</h4>
+  <li><p>15 epoch</p></li>
   <h4>Training set:</h4>
   <p>Train:</p>
   <p> 2100 images</p>
