@@ -3,7 +3,7 @@ from keras.utils import load_img, img_to_array
 
 import numpy as np
 
-METTIA = r'qrcods-014_acc-0.789614.h5'
+METTIA = r'qrcods-011_acc-0.902486.h5'
 image_to_classification = r"" #your image to classification
 
 model = load_model(METTIA)
