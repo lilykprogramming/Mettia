@@ -3,10 +3,10 @@ from keras.utils import load_img, img_to_array
 
 import numpy as np
 
-THOT = r'qrcods-014_acc-0.789614.h5'
+METTIA = r'qrcods-014_acc-0.789614.h5'
 image_to_classification = r"" #your image to classification
 
-model = load_model(THOT)
+model = load_model(METTIA)
 
 picture = load_img(image_to_classification, target_size=(224,224))
 
